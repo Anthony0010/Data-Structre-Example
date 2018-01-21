@@ -16,7 +16,7 @@ namespace lab
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ColleciontsPractice.SortedList());
+            Application.Run(new ColleciontsPractice.FArgoritmos());
         }
     }
 }

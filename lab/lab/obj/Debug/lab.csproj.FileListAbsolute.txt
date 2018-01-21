@@ -11,3 +11,17 @@ C:\Users\Anthony\Documents\Visual Studio 2015\Projects\lab\lab\obj\Debug\lab.Col
 C:\Users\Anthony\Documents\Visual Studio 2015\Projects\lab\lab\obj\Debug\lab.ColleciontsPractice.FQueue.resources
 C:\Users\Anthony\Documents\Visual Studio 2015\Projects\lab\lab\obj\Debug\lab.ColleciontsPractice.FStack.resources
 C:\Users\Anthony\Documents\Visual Studio 2015\Projects\lab\lab\obj\Debug\lab.ColleciontsPractice.SortedList.resources
+C:\Users\Anthony\Documents\Data-Structre-Example\lab\lab\bin\Debug\lab.exe.config
+C:\Users\Anthony\Documents\Data-Structre-Example\lab\lab\obj\Debug\lab.exe
+C:\Users\Anthony\Documents\Data-Structre-Example\lab\lab\obj\Debug\lab.pdb
+C:\Users\Anthony\Documents\Data-Structre-Example\lab\lab\bin\Debug\lab.exe
+C:\Users\Anthony\Documents\Data-Structre-Example\lab\lab\bin\Debug\lab.pdb
+C:\Users\Anthony\Documents\Data-Structre-Example\lab\lab\obj\Debug\lab.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\Data-Structre-Example\lab\lab\obj\Debug\lab.ColleciontsPractice.FArgoritmos.resources
+C:\Users\Anthony\Documents\Data-Structre-Example\lab\lab\obj\Debug\lab.ColleciontsPractice.FArrayList.resources
+C:\Users\Anthony\Documents\Data-Structre-Example\lab\lab\obj\Debug\lab.ColleciontsPractice.FHashTable.resources
+C:\Users\Anthony\Documents\Data-Structre-Example\lab\lab\obj\Debug\lab.ColleciontsPractice.FQueue.resources
+C:\Users\Anthony\Documents\Data-Structre-Example\lab\lab\obj\Debug\lab.ColleciontsPractice.FStack.resources
+C:\Users\Anthony\Documents\Data-Structre-Example\lab\lab\obj\Debug\lab.ColleciontsPractice.SortedList.resources
+C:\Users\Anthony\Documents\Data-Structre-Example\lab\lab\obj\Debug\lab.Properties.Resources.resources
+C:\Users\Anthony\Documents\Data-Structre-Example\lab\lab\obj\Debug\lab.csproj.GenerateResource.Cache

@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ColleciontsPractice\FArgoritmos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ColleciontsPractice\FArgoritmos.Designer.cs">
+      <DependentUpon>FArgoritmos.cs</DependentUpon>
+    </Compile>
     <Compile Include="ColleciontsPractice\FArrayList.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -84,6 +90,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ColleciontsPractice\FArgoritmos.resx">
+      <DependentUpon>FArgoritmos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ColleciontsPractice\FArrayList.resx">
       <DependentUpon>FArrayList.cs</DependentUpon>
     </EmbeddedResource>
